@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,FX East
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1,FX West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3832.m3u8
+#EXTINF:-1,FXM
+https://fl51.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1,FXX East
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1,FXX West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3833.m3u8
